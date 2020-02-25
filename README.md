@@ -1,11 +1,18 @@
 # BTP400-W2020
 
-All my work throughout the semester will be kept here for reference
+Assignment 1 (Bank Application)
 
-- Semester content was done in: Winter 2020
+- Semester done in: Winter 2020
 
-- Content includes: 
-   - 4 labs
-   - 2 assignments
-  
-- Will be updated as semester continues on
+# Classes needed
+
+* Account
+* Bank
+* Chequing
+* GIC
+* Taxable (Interface)
+* FinancialApp
+
+# Test folder
+
+- Includes JUnit test cases
