@@ -1,5 +1,5 @@
 .settings
-%HOME%
+%HOME
 .gitignore
 com/seneca/accounts/*.class
 com/seneca/business/*.class
