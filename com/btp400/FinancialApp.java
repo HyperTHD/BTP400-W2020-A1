@@ -3,9 +3,7 @@ package com.btp400;
 import com.seneca.business.Bank;
 import com.seneca.accounts.*;
 import java.util.Scanner;
-
 public class FinancialApp {
-
 	public static void main(String[] args) {
 
 		Bank bank = new Bank();
