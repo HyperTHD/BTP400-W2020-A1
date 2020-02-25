@@ -1,0 +1,7 @@
+.settings
+%HOME%
+.gitignore
+com/seneca/accounts/*.class
+com/seneca/business/*.class
+com/btp400/*.class 
+test/btp400/a1/*.class
