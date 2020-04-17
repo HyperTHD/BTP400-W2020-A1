@@ -132,9 +132,9 @@ public class FinancialApp {
 
 	public static void loadBank(Bank bank) {
 		bank.addAccount(new Chequing("Doe, John", "A1234", 1000.00, 0.25, 5));
-		bank.addAccount(new GIC("Doe, John", "A7890", 6000.00, 2, 0.150));
+		bank.addAccount(new GIC("Doe, John", "A7890", 6000.00, 2, 0.0150));
 		bank.addAccount(new Chequing("Ryan, Mary", "S5678", 2000.00, 0.30, 4));
-		bank.addAccount(new GIC("Ryan, Mary", "S4567", 15000.00, 4, 0.250));
+		bank.addAccount(new GIC("Ryan, Mary", "S4567", 15000.00, 4, 0.0250));
 	}
 
 	public static void displayMenu(String bankName) {
